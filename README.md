@@ -8,3 +8,7 @@
   <img src="https://star-orcin.vercel.app/api?username=qaqbuyan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=true&order=1"alt="stats graph"/>
   <img src="https://github.com/qaqbuyan/qaqbuyan/blob/main/skilledness.png" alt="skilledness graph"/>
 </div>
+
+###
+
+<h5 align="left">This is my open-source project; personal projects are stored in my SVN repository. <a href="https://qaqbuyan.com:88/Svn.html">Click here</a> to view the update log.</h5>
